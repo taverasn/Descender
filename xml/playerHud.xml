@@ -1,0 +1,12 @@
+﻿<hud name="test hud" width="800" height="600">
+	<element name="ship"			    pos_x="-0.8" pos_y="-0.4" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="1"/>
+	<element name="ship"			    pos_x="-0.4" pos_y="-0.4" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="2"/>
+	<element name="ship"			    pos_x="0"  pos_y="-0.4" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="3"/>
+	<element name="ship"			    pos_x="0.4"  pos_y="-0.4" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="4"/>
+	<element name="ship"			    pos_x="0.8"    pos_y="-0.4" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="5"/>
+	<element name="bomb_circle"			pos_x="-0.8" pos_y="-0.8" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="6"/>
+	<element name="bomb_circle"			pos_x="-0.4" pos_y="-0.8" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="7"/>
+	<element name="bomb_circle"			pos_x="0.0"  pos_y="-0.8" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="8"/>
+	<element name="bomb_circle"			pos_x="0.4"  pos_y="-0.8" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="9"/>
+	<element name="bomb_circle"			pos_x="0.8"    pos_y="-0.8" scale_x="0.15" scale_y="0.15" rotation="0.0" depth="0.027" sr_x="0"	  sr_y="0"	 sr_w="800" sr_h="600" textureID ="10"/>
+</hud>

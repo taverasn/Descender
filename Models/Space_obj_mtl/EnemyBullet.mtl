@@ -1,0 +1,24 @@
+# Blender MTL File: 'SpaceLevel.blend'
+# Material Count: 2
+
+newmtl Gold_1_faked_ref.001
+Ns 60.000004
+Ka 1.000000 1.000000 1.000000
+Kd 0.796079 0.741176 0.447059
+Ks 0.720000 0.720000 0.720000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2011\\maps\\Reflection\\REFMAP.GIF
+
+newmtl Metal_Chrome.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.439216 0.439216 0.439216
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2011\\maps\\Reflection\\CHRMWARP.JPG
